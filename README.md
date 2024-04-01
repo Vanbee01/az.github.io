@@ -1,5 +1,7 @@
+````bash
 > help --contact
-> instagram: @w_udinn
+> instagram: w_udinn
 > github: Vanbee01
-> tiktok: @w_udin
+> x: @waaaayyyyyy_
 > mailto: wdinsapt@gmail.com
+````
